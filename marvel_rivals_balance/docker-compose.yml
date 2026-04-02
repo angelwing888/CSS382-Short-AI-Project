@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  web:
+    build: .
+    ports:
+      - "5000:5000"
+    environment:
+      - FLASK_ENV=production
+      - FLASK_DEBUG=0
+    volumes:
+      - .:/app
+    command: python scraper.py && gunicorn --bind 0.0.0.0:5000 --workers 2 app:app
