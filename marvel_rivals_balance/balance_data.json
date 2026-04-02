@@ -1,0 +1,139 @@
+{
+  "Spider-Man": [
+    {
+      "patch": "Marvel Rivals Version 20260326",
+      "date": "2026-03-26",
+      "adjustment": "Web swing speed increased by 10%. Improved responsiveness for wall-crawling mechanics."
+    },
+    {
+      "patch": "Marvel Rivals Version 20260320",
+      "date": "2026-03-20",
+      "adjustment": "Friendly neighborhood ability cooldown reduced from 12s to 10s."
+    },
+    {
+      "patch": "Marvel Rivals Version 20260219",
+      "date": "2026-02-19",
+      "adjustment": "Ultimate ability charge rate increased by 8%."
+    }
+  ],
+  "Iron Man": [
+    {
+      "patch": "Marvel Rivals Version 20260326",
+      "date": "2026-03-26",
+      "adjustment": "Repulsor beam damage increased by 12%. Flight duration extended by 2 seconds."
+    },
+    {
+      "patch": "Marvel Rivals Version 20260213",
+      "date": "2026-02-13",
+      "adjustment": "Energy management system overhauled. Missiles now consume 15% less energy."
+    }
+  ],
+  "Captain America": [
+    {
+      "patch": "Marvel Rivals Version 20260320",
+      "date": "2026-03-20",
+      "adjustment": "Combat mechanic adjustments. Shield throw now returns faster (0.8s vs 1s). Normal attack chain optimized."
+    },
+    {
+      "patch": "Marvel Rivals Version 20260219",
+      "date": "2026-02-19",
+      "adjustment": "Sentinel Strike combo consistency improved. Stun duration increased by 0.3s."
+    }
+  ],
+  "Thor": [
+    {
+      "patch": "Marvel Rivals Version 20260326",
+      "date": "2026-03-26",
+      "adjustment": "Lightning strike area of effect expanded by 15%. Hammer throw velocity increased."
+    },
+    {
+      "patch": "Marvel Rivals Version 20260116",
+      "date": "2026-01-16",
+      "adjustment": "Mjolnir charge time reduced by 1 second. Thunder ability cooldown adjusted."
+    }
+  ],
+  "Black Widow": [
+    {
+      "patch": "Marvel Rivals Version 20260326",
+      "date": "2026-03-26",
+      "adjustment": "Grappling hook range extended by 20%. Improved mobility for escape sequences."
+    },
+    {
+      "patch": "Marvel Rivals Version 20260215",
+      "date": "2026-02-15",
+      "adjustment": "Precision strike critical hit chance increased from 20% to 25%."
+    }
+  ],
+  "Hulk": [
+    {
+      "patch": "Marvel Rivals Version 20260326",
+      "date": "2026-03-26",
+      "adjustment": "Health regeneration passive now active in combat. Damage reduction increased to 15%."
+    },
+    {
+      "patch": "Marvel Rivals Version 20260320",
+      "date": "2026-03-20",
+      "adjustment": "Ground slam radius increased. Knockback effect enhanced for crowd control."
+    }
+  ],
+  "Black Panther": [
+    {
+      "patch": "Marvel Rivals Version 20260326",
+      "date": "2026-03-26",
+      "adjustment": "Vibranium absorption rate increased by 8%. Claw attack combo speed improved."
+    },
+    {
+      "patch": "Marvel Rivals Version 20260219",
+      "date": "2026-02-19",
+      "adjustment": "Kinetic energy redirection cooldown reduced. Ultimate ability duration extended."
+    }
+  ],
+  "Doctor Strange": [
+    {
+      "patch": "Marvel Rivals Version 20260326",
+      "date": "2026-03-26",
+      "adjustment": "Portal traversal speed increased by 25%. Spell casting time reduced for all spells."
+    },
+    {
+      "patch": "Marvel Rivals Version 20260213",
+      "date": "2026-02-13",
+      "adjustment": "Time manipulation ability reworked. Damage scaling adjusted for balance."
+    }
+  ],
+  "Scarlet Witch": [
+    {
+      "patch": "Marvel Rivals Version 20260326",
+      "date": "2026-03-26",
+      "adjustment": "Chaos magic projectile speed increased. Probability field now covers larger area."
+    },
+    {
+      "patch": "Marvel Rivals Version 20260116",
+      "date": "2026-01-16",
+      "adjustment": "Hex ability duration extended from 4s to 5s. Mana cost reduced by 10%."
+    }
+  ],
+  "Vision": [
+    {
+      "patch": "Marvel Rivals Version 20260326",
+      "date": "2026-03-26",
+      "adjustment": "Density alteration phase duration increased. Phasing now allows passing through obstacles."
+    },
+    {
+      "patch": "Marvel Rivals Version 20260215",
+      "date": "2026-02-15",
+      "adjustment": "Mind gem power output increased by 12%. Attack combo damage scaling improved."
+    }
+  ],
+  "Ant-Man": [
+    {
+      "patch": "Marvel Rivals Version 20260326",
+      "date": "2026-03-26",
+      "adjustment": "Size manipulation cooldown reduced. Giant form damage bonus increased from 20% to 25%."
+    },
+    {
+      "patch": "Marvel Rivals Version 20260219",
+      "date": "2026-02-19",
+      "adjustment": "Quantum tunneling ability rebalanced. Escape range extended significantly."
+    }
+  ]
+}
