@@ -1,5 +1,7 @@
 # Marvel Rivals Balance Adjustments Tracker
 
+This was created as an in-class assignment CSS382: Intro to AI. Claude Haiku 4.5 was utilized through VSCode's Agent Mode to complete this. 
+
 Deployed website: https://marvel-rivals-adj-tracker.netlify.app
 
 Idea: Build a web app that shows all of the balance adjustments for heroes in Marvel Rivals throughout the previous patches. It should list out the characters, and then underneath, include the patch they were adjusted and the adjustment that was made.
