@@ -265,7 +265,7 @@
         // Fetch and display all heroes on page load
         async function loadHeroes() {
             try {
-                const response = await fetch('CSS382-Short-AI-Project/marvel_rivals_balance/balance_data.json');
+                const response = await fetch('marvel_rivals_balance/balance_data.json');
                 if (!response.ok) throw new Error('Failed to fetch heroes');
                 
                 const data = await response.json();
