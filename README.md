@@ -1,10 +1,6 @@
 # Marvel Rivals Balance Adjustments Tracker
 
-netID: kchang37
-
-Name: Kylie Chang
-
-GitHub Repository: https://github.com/angelwing888/CSS382-Short-AI-Project
+Deployed website: https://marvel-rivals-adj-tracker.netlify.app
 
 Idea: Build a web app that shows all of the balance adjustments for heroes in Marvel Rivals throughout the previous patches. It should list out the characters, and then underneath, include the patch they were adjusted and the adjustment that was made.
 
