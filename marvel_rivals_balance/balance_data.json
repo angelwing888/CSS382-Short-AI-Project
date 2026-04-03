@@ -62,6 +62,11 @@
   ],
   "Blade": [
     {
+      "patch": "Marvel Rivals Version 20250821",
+      "date": "2025-08-20",
+      "adjustment": "Increase Lifesteal gained during Bloodline Awakening from 60% to 65%. Reduce self-healing reduction from 40% to 35%."
+    },
+    {
       "patch": "Marvel Rivals Version 20251010",
       "date": "2025-10-02",
       "adjustment": "Increase Daywalker Dash secondary attack range from 4.5m to 6.5m. Increase slash speed attack duration from 0.7s to 1s. Landing all four hits of Whirlwind Slash grants 1 slash speed stack."
@@ -70,11 +75,6 @@
       "patch": "Marvel Rivals Version 20251114",
       "date": "2025-11-12",
       "adjustment": "Increase Ancestral Sword single-hit Damage from 24 to 26 and Whirlwind Slash single-hit Damage from 15 to 16. Reduce Bloodline Awakening Reduced Healing from 35% to 25%."
-    },
-    {
-      "patch": "Marvel Rivals Version 20250821",
-      "date": "2025-08-20",
-      "adjustment": "Increase Lifesteal gained during Bloodline Awakening from 60% to 65%. Reduce self-healing reduction from 40% to 35%."
     },
     {
       "patch": "Marvel Rivals Version 20260116",
@@ -231,6 +231,11 @@
       "adjustment": "Increase Diamond Form cooldown from 15s to 18s. Reduce Telepathic Pulse energy gained when hitting shields from 10/s to 5/s."
     },
     {
+      "patch": "Marvel Rivals Version 20251212",
+      "date": "2025-12-09",
+      "adjustment": "Increase Base Health from 550 to 600. Remove Team-Up Anchor 100 Bonus Health."
+    },
+    {
       "patch": "Marvel Rivals Version 20260116",
       "date": "2026-01-16",
       "adjustment": "Increase Energy gained: Hero hits from 10/s to 12/s, Sentience hits from 15/s to 18/s, Shield hits from 5/s to 6/s."
@@ -244,14 +249,19 @@
       "patch": "Marvel Rivals Version 20260320",
       "date": "2026-03-20",
       "adjustment": "Reduce Diamond Form Damage Reduction from 25% to 20%. Adjust Psionic Seduction Ultimate Damage Falloff. Gain 20% Damage Reduction during ability."
+    }
+  ],
+  "Gambit": [
+    {
+      "patch": "Marvel Rivals Version 20251114",
+      "date": "2025-11-12",
+      "adjustment": "As Team-Up Anchor with Magneto: +5% healing effects boost."
     },
     {
       "patch": "Marvel Rivals Version 20251212",
       "date": "2025-12-09",
-      "adjustment": "Increase Base Health from 550 to 600. Remove Team-Up Anchor 100 Bonus Health."
-    }
-  ],
-  "Gambit": [
+      "adjustment": "Increase Ragin' Royal Flush Ultimate energy cost from 4300 to 4500."
+    },
     {
       "patch": "Marvel Rivals Version 20260116",
       "date": "2026-01-16",
@@ -261,16 +271,6 @@
       "patch": "Marvel Rivals Version 20260219",
       "date": "2026-02-15",
       "adjustment": "Reduce base health from 275 to 250. Breaking Spades now grants 10% Damage Boost (was 15%)."
-    },
-    {
-      "patch": "Marvel Rivals Version 20251212",
-      "date": "2025-12-09",
-      "adjustment": "Increase Ragin' Royal Flush Ultimate energy cost from 4300 to 4500."
-    },
-    {
-      "patch": "Marvel Rivals Version 20251114",
-      "date": "2025-11-12",
-      "adjustment": "As Team-Up Anchor with Magneto: +5% healing effects boost."
     },
     {
       "patch": "Cap's Combat Mechanic & Extra Balance 20260320",
@@ -297,14 +297,14 @@
   ],
   "Hawkeye": [
     {
-      "patch": "Marvel Rivals Version 20260219",
-      "date": "2026-02-15",
-      "adjustment": "Reduce Piercing Arrow Base Damage from 34 to 28. Reduce fully charged arrow Base Damage from 85 to 70. When boosted by Archer's Focus, reduce damage from 175 to 160."
-    },
-    {
       "patch": "Marvel Rivals Version 20251114",
       "date": "2025-11-12",
       "adjustment": "Increase Archer's Focus maximum Bonus Damage from 75 to 90."
+    },
+    {
+      "patch": "Marvel Rivals Version 20260219",
+      "date": "2026-02-15",
+      "adjustment": "Reduce Piercing Arrow Base Damage from 34 to 28. Reduce fully charged arrow Base Damage from 85 to 70. When boosted by Archer's Focus, reduce damage from 175 to 160."
     },
     {
       "patch": "Marvel Rivals Version 20260320",
@@ -314,14 +314,14 @@
   ],
   "Hela": [
     {
-      "patch": "Marvel Rivals Version 20260219",
-      "date": "2026-02-15",
-      "adjustment": "Damage falloff of Nightsword Thorn: at 30m, maximum falloff drops to 70% of base. Beyond 25m, two critical hits will not KO a 250 HP target."
-    },
-    {
       "patch": "Marvel Rivals Version 20251010",
       "date": "2025-10-02",
       "adjustment": "Reduce Astral Flock start-up cast time. After casting, Hela gains 25 Bonus Health."
+    },
+    {
+      "patch": "Marvel Rivals Version 20260219",
+      "date": "2026-02-15",
+      "adjustment": "Damage falloff of Nightsword Thorn: at 30m, maximum falloff drops to 70% of base. Beyond 25m, two critical hits will not KO a 250 HP target."
     }
   ],
   "Human Torch": [
@@ -336,14 +336,14 @@
       "adjustment": "Reduce Flame Field Damage Over Time from 25/s to 20/s. Reduce Pyro-Prison Damage Over Time from 50/s to 40/s."
     },
     {
-      "patch": "Marvel Rivals Version 20251212",
-      "date": "2025-12-09",
-      "adjustment": "Slightly reduce projectile spread. Increase single-cast projectile Damage from 5 to 5.5. Adjust maximum falloff from 60% at 30m to 60% at 20m. Reduce charge speed from 3s to 2.5s. Increase hit Damage from 40 to 45."
-    },
-    {
       "patch": "Marvel Rivals Version 20251010",
       "date": "2025-10-02",
       "adjustment": "Reduce Fire Cluster hit Damage per projectile from 5.5 to 5. Add 0.5s delay before ammo begins to replenish. During Plasma Body, reduce movement speed from 900 to 850."
+    },
+    {
+      "patch": "Marvel Rivals Version 20251212",
+      "date": "2025-12-09",
+      "adjustment": "Slightly reduce projectile spread. Increase single-cast projectile Damage from 5 to 5.5. Adjust maximum falloff from 60% at 30m to 60% at 20m. Reduce charge speed from 3s to 2.5s. Increase hit Damage from 40 to 45."
     },
     {
       "patch": "Marvel Rivals Version 20260320",
@@ -370,19 +370,14 @@
   ],
   "Invisible Woman": [
     {
-      "patch": "Marvel Rivals Version 20260116",
-      "date": "2026-01-16",
-      "adjustment": "Reduce Guardian Shield value from 250 to 200. Reduce shield restoration rate from 42/s to 34/s. Reduce Guardian Shield healing to Invisible Woman from 50/s to 25/s."
-    },
-    {
       "patch": "Marvel Rivals Version 20250711",
       "date": "2025-07-02",
       "adjustment": "Increase Orb Projection hit damage from 25 to 30. Projectile maximum range from 30m to 35m. Projectile speed from 120m/s to 150m/s. Increase Force Physics length from 30m to 35m. Guardian Shield deployment on recall if not present."
     },
     {
-      "patch": "Marvel Rivals Version 20251212",
-      "date": "2025-12-09",
-      "adjustment": "Increase Orb Projection cooldown from 8s to 10s."
+      "patch": "Marvel Rivals Version 20250912",
+      "date": "2025-09-04",
+      "adjustment": "Increase Slow effect to enemies passing through Guardian Shield from 30% to 35%. Increase Invisible Boundary Ultimate healing from 165 to 180/s. New Effect: Slows enemies within range by 20%."
     },
     {
       "patch": "Marvel Rivals Version 20251114",
@@ -390,9 +385,14 @@
       "adjustment": "Increase Orb Projection hit damage from 25 to 30. Projectile max range from 30m to 35m, speed from 120m/s to 150m/s. Increase Force Physics length from 30m to 35m. Guardian Shield new effect: deploy shield in front if none present."
     },
     {
-      "patch": "Marvel Rivals Version 20250912",
-      "date": "2025-09-04",
-      "adjustment": "Increase Slow effect to enemies passing through Guardian Shield from 30% to 35%. Increase Invisible Boundary Ultimate healing from 165 to 180/s. New Effect: Slows enemies within range by 20%."
+      "patch": "Marvel Rivals Version 20251212",
+      "date": "2025-12-09",
+      "adjustment": "Increase Orb Projection cooldown from 8s to 10s."
+    },
+    {
+      "patch": "Marvel Rivals Version 20260116",
+      "date": "2026-01-16",
+      "adjustment": "Reduce Guardian Shield value from 250 to 200. Reduce shield restoration rate from 42/s to 34/s. Reduce Guardian Shield healing to Invisible Woman from 50/s to 25/s."
     },
     {
       "patch": "Marvel Rivals Version 20260213",
@@ -407,11 +407,6 @@
   ],
   "Iron Fist": [
     {
-      "patch": "Marvel Rivals Version 20260116",
-      "date": "2026-01-16",
-      "adjustment": "Increase Jeet Kune Do 5th strike damage from 50 to 55. Increase Yat Jee Chung Kuen percentage damage from 2.1% to 2.7% of enemy Max Health. Adjust Harmony Recovery Bonus Health decay start from 1s to 2s. Increase K'un-Lun Kick first strike damage from 30 to 35."
-    },
-    {
       "patch": "Marvel Rivals Version 20250808",
       "date": "2025-07-31",
       "adjustment": "Increase Jeet Kune Do 5th strike damage from 50 to 55. Increase Yat Jee Chung Kuen percentage damage from 2.1% to 2.7%. Adjust Harmony Recovery Bonus Health decay start from 1s to 2s. Increase K'un-Lun Kick first strike damage from 30 to 35."
@@ -420,6 +415,11 @@
       "patch": "Marvel Rivals Version 20251010",
       "date": "2025-10-02",
       "adjustment": "Lower fixed damage of Yat Jee Chung Kuen from 9 to 8, but increase percentage damage from 2.7% to 3.1% of enemy Max Health."
+    },
+    {
+      "patch": "Marvel Rivals Version 20260116",
+      "date": "2026-01-16",
+      "adjustment": "Increase Jeet Kune Do 5th strike damage from 50 to 55. Increase Yat Jee Chung Kuen percentage damage from 2.1% to 2.7% of enemy Max Health. Adjust Harmony Recovery Bonus Health decay start from 1s to 2s. Increase K'un-Lun Kick first strike damage from 30 to 35."
     }
   ],
   "Iron Man": [
@@ -453,14 +453,9 @@
       "adjustment": "Increase Loki energy cost of God of Mischief Ultimate from 4000 to 4300."
     },
     {
-      "patch": "Marvel Rivals Version 20260116",
-      "date": "2026-01-16",
-      "adjustment": "Reduce Dagger Storm Healing from 55/s to 45/s. Adjust Mystical Missile damage falloff at 3m from 50% to 80%. New effect: heals directly hit allies for extra 10 Health."
-    },
-    {
-      "patch": "Marvel Rivals Version 20251212",
-      "date": "2025-12-09",
-      "adjustment": "Increase base health from 250 to 275. Increase damage and healing ratio of illusions from 80% to 90%."
+      "patch": "Marvel Rivals Version 20250821",
+      "date": "2025-08-20",
+      "adjustment": "Reduce Mystical Missile damage from Loki and illusions to enemies from 30 to 25."
     },
     {
       "patch": "Marvel Rivals Version 20250912",
@@ -468,9 +463,14 @@
       "adjustment": "Reduce illusion damage and healing ratio from 100% to 80%. Reduce God of Mischief Ultimate shapeshift period from 15s to 12s."
     },
     {
-      "patch": "Marvel Rivals Version 20250821",
-      "date": "2025-08-20",
-      "adjustment": "Reduce Mystical Missile damage from Loki and illusions to enemies from 30 to 25."
+      "patch": "Marvel Rivals Version 20251212",
+      "date": "2025-12-09",
+      "adjustment": "Increase base health from 250 to 275. Increase damage and healing ratio of illusions from 80% to 90%."
+    },
+    {
+      "patch": "Marvel Rivals Version 20260116",
+      "date": "2026-01-16",
+      "adjustment": "Reduce Dagger Storm Healing from 55/s to 45/s. Adjust Mystical Missile damage falloff at 3m from 50% to 80%. New effect: heals directly hit allies for extra 10 Health."
     },
     {
       "patch": "Marvel Rivals Version 20260116",
@@ -521,6 +521,11 @@
   ],
   "Mantis": [
     {
+      "patch": "Marvel Rivals Version 20250711",
+      "date": "2025-07-02",
+      "adjustment": "Healing Flower new effect: heals allies by 2.5%/s. Reduce base healing from 20/s to 12.5/s. Increase Soul Resurgence Ultimate energy cost from 3700 to 4300. Increase Bonus Max Health from 100 to 150."
+    },
+    {
       "patch": "Marvel Rivals Version 20250808",
       "date": "2025-07-31",
       "adjustment": "Increase healing by 10% with Team-Up Anchor. Reduce Healing Flower Healing Over Time from 12.5/s to 10/s. Reduce Life Energy Blast charges from 20 to 15. Increase Soul Resurgence excess healing to Bonus Health conversion from 0.7 to 1."
@@ -529,11 +534,6 @@
       "patch": "Marvel Rivals Version 20250912",
       "date": "2025-09-04",
       "adjustment": "Movement Boost from Nature's Favor decays to 0 over 2s after being hit instead of instantly."
-    },
-    {
-      "patch": "Marvel Rivals Version 20250711",
-      "date": "2025-07-02",
-      "adjustment": "Healing Flower new effect: heals allies by 2.5%/s. Reduce base healing from 20/s to 12.5/s. Increase Soul Resurgence Ultimate energy cost from 3700 to 4300. Increase Bonus Max Health from 100 to 150."
     }
   ],
   "Mister Fantastic": [
@@ -543,14 +543,14 @@
       "adjustment": "Reduce Inflated state Bonus Health from 400 to 350."
     },
     {
-      "patch": "Marvel Rivals Version 20251114",
-      "date": "2025-11-12",
-      "adjustment": "Reflexive Rubber can now be used during Inflated state after reaching 100 Elasticity. Remove 350 Bonus Health on entering Inflated; gain 350 Maximum Health and one-time heal of 350."
-    },
-    {
       "patch": "Marvel Rivals Version 20251010",
       "date": "2025-10-02",
       "adjustment": "After successfully pulling with Distended Grip, target is afflicted with 1-second immobilize effect."
+    },
+    {
+      "patch": "Marvel Rivals Version 20251114",
+      "date": "2025-11-12",
+      "adjustment": "Reflexive Rubber can now be used during Inflated state after reaching 100 Elasticity. Remove 350 Bonus Health on entering Inflated; gain 350 Maximum Health and one-time heal of 350."
     }
   ],
   "Moon Knight": [
@@ -584,22 +584,17 @@
       "adjustment": "Spider-Drone now slows hit enemies by 8% for 2s, stacking up to 40%. Reduce Spider-Drone release interval during Ultimate from 0.7s to 0.5s."
     },
     {
-      "patch": "Marvel Rivals Version 20251212",
-      "date": "2025-12-09",
-      "adjustment": "Reduce Base Health from 750 to 700."
-    },
-    {
       "patch": "Marvel Rivals Version 20251114",
       "date": "2025-11-12",
       "adjustment": "Allies in Cyber-Webs receive same Healing Over Time and Movement Boost as Peni. Movement Boost 25%, Healing 15/s. Ally excess healing converts to Bonus Health up to 25."
+    },
+    {
+      "patch": "Marvel Rivals Version 20251212",
+      "date": "2025-12-09",
+      "adjustment": "Reduce Base Health from 750 to 700."
     }
   ],
   "Phoenix": [
-    {
-      "patch": "Marvel Rivals Version 20260213",
-      "date": "2026-02-09",
-      "adjustment": "Reduce base health from 275 to 250."
-    },
     {
       "patch": "Marvel Rivals Version 20251010",
       "date": "2025-10-02",
@@ -614,6 +609,11 @@
       "patch": "Marvel Rivals Version 20251114",
       "date": "2025-11-12",
       "adjustment": "Adjust Cosmic Flames maximum falloff at 30m from 60% to 75%."
+    },
+    {
+      "patch": "Marvel Rivals Version 20260213",
+      "date": "2026-02-09",
+      "adjustment": "Reduce base health from 275 to 250."
     }
   ],
   "Psylocke": [
@@ -621,6 +621,16 @@
       "patch": "Marvel Rivals Version 20250912",
       "date": "2025-09-04",
       "adjustment": "Decrease Wing Shurikens retrieve damage per hit from 12 to 8."
+    },
+    {
+      "patch": "Marvel Rivals Version 20251010",
+      "date": "2025-10-02",
+      "adjustment": "Reduce self-slow rate during Dance of the Butterfly Ultimate from 30% to 15%. Increase each strike damage from 150 to 170."
+    },
+    {
+      "patch": "Marvel Rivals Version 20251212",
+      "date": "2025-12-09",
+      "adjustment": "Increase Dance of the Butterfly Ultimate energy cost from 2800 to 3400."
     },
     {
       "patch": "Marvel Rivals Version 20260116",
@@ -633,32 +643,12 @@
       "adjustment": "Psionic Crossbow Damage Falloff: adjust maximum from 60% to 70% at 30m. Reduce Dance of the Butterfly single-hit Damage from 170 to 160."
     },
     {
-      "patch": "Marvel Rivals Version 20251212",
-      "date": "2025-12-09",
-      "adjustment": "Increase Dance of the Butterfly Ultimate energy cost from 2800 to 3400."
-    },
-    {
-      "patch": "Marvel Rivals Version 20251010",
-      "date": "2025-10-02",
-      "adjustment": "Reduce self-slow rate during Dance of the Butterfly Ultimate from 30% to 15%. Increase each strike damage from 150 to 170."
-    },
-    {
       "patch": "Marvel Rivals Version 20260320",
       "date": "2026-03-20",
       "adjustment": "Increase Psionic Crossbow cooldown reduction on hit from 0.25s to 0.3s. Increase Wing Shurikens Damage on throw and return from 8 to 9."
     }
   ],
   "Rocket Raccoon": [
-    {
-      "patch": "Marvel Rivals Version 20260116",
-      "date": "2026-01-16",
-      "adjustment": "Reduce Movement Speed during Wild Crawl from 10m/s to 8m/s."
-    },
-    {
-      "patch": "Marvel Rivals Version 20251212",
-      "date": "2025-12-09",
-      "adjustment": "Increase C.Y.A. Ultimate energy cost from 4000 to 4300."
-    },
     {
       "patch": "Marvel Rivals Version 20251010",
       "date": "2025-10-02",
@@ -668,6 +658,16 @@
       "patch": "Marvel Rivals Version 20251114",
       "date": "2025-11-12",
       "adjustment": "Reduce B.R.B. cooldown from 45s to 40s. Increase Repair Mode max count from 5 to 7 and projectile speed from 60m/s to 80m/s. Increase Bombard Mode Projectile Speed from 150m/s to 180m/s."
+    },
+    {
+      "patch": "Marvel Rivals Version 20251212",
+      "date": "2025-12-09",
+      "adjustment": "Increase C.Y.A. Ultimate energy cost from 4000 to 4300."
+    },
+    {
+      "patch": "Marvel Rivals Version 20260116",
+      "date": "2026-01-16",
+      "adjustment": "Reduce Movement Speed during Wild Crawl from 10m/s to 8m/s."
     }
   ],
   "Rogue": [
@@ -701,14 +701,14 @@
       "adjustment": "Increase 'Get Over Here!' kick Damage from 50 to 55. Increase Spider-Power midair Damage from 50 to 55. Increase Amazing Combo Damage from 55 to 60."
     },
     {
-      "patch": "Marvel Rivals Version 20251114",
-      "date": "2025-11-12",
-      "adjustment": "Reduce Web-Cluster energize time from 2.5s to 2s. Increase Amazing Combo Damage from 60 to 70."
-    },
-    {
       "patch": "Marvel Rivals Version 20250808",
       "date": "2025-07-31",
       "adjustment": "Increase Spectacular Spin Ultimate Damage per second from 150 to 170."
+    },
+    {
+      "patch": "Marvel Rivals Version 20251114",
+      "date": "2025-11-12",
+      "adjustment": "Reduce Web-Cluster energize time from 2.5s to 2s. Increase Amazing Combo Damage from 60 to 70."
     }
   ],
   "Squirrel Girl": [
@@ -725,38 +725,38 @@
   ],
   "Star-Lord": [
     {
-      "patch": "Marvel Rivals Version 20260213",
-      "date": "2026-02-09",
-      "adjustment": "Reduce Galactic Legend Ultimate energy cost from 3400 to 3100."
-    },
-    {
       "patch": "Marvel Rivals Version 20250808",
       "date": "2025-07-31",
       "adjustment": "Gain 25 Bonus Health when using Stellar Shift (max 25), lasts 3s before decaying."
+    },
+    {
+      "patch": "Marvel Rivals Version 20260213",
+      "date": "2026-02-09",
+      "adjustment": "Reduce Galactic Legend Ultimate energy cost from 3400 to 3100."
     }
   ],
   "Storm": [
     {
-      "patch": "Marvel Rivals Version 20260213",
-      "date": "2026-02-09",
-      "adjustment": "Weather Control - Tornado new effect: Wind Blade and Bolt Rush grant Storm Bonus Health (25% conversion, max 75). Thunder new effect: Wind Blade hits reduce Bolt Rush cooldown by 0.5s. Increase Bolt Rush range from 1m to 1.5m. Thunder & Lightning: ally buffs decay over 2s instead of vanishing. Reduce Damage Boost from 12% to 8%."
-    },
-    {
       "patch": "Marvel Rivals Version 20251114",
       "date": "2025-11-12",
       "adjustment": "Increase Weather Control - Thunder Damage Boost to allies from 10% to 12%. Increase Goddess Boost - Thunder Damage Boost from 12% to 15%."
+    },
+    {
+      "patch": "Marvel Rivals Version 20260213",
+      "date": "2026-02-09",
+      "adjustment": "Weather Control - Tornado new effect: Wind Blade and Bolt Rush grant Storm Bonus Health (25% conversion, max 75). Thunder new effect: Wind Blade hits reduce Bolt Rush cooldown by 0.5s. Increase Bolt Rush range from 1m to 1.5m. Thunder & Lightning: ally buffs decay over 2s instead of vanishing. Reduce Damage Boost from 12% to 8%."
     }
   ],
   "The Punisher": [
     {
-      "patch": "Marvel Rivals Version 20251212",
-      "date": "2025-12-09",
-      "adjustment": "Increase base health from 275 to 300. Adjust Adjudication max falloff at 40m from 70% to 85%. Increase pellets per Deliverance round from 14 to 16."
-    },
-    {
       "patch": "Marvel Rivals Version 20250711",
       "date": "2025-07-02",
       "adjustment": "Reduce Culling Turret Projectile Damage from 12 to 10. Decrease Spell Field Damage from 12 to 10. Increase Final Judgement Ultimate energy cost from 3400 to 3700."
+    },
+    {
+      "patch": "Marvel Rivals Version 20251212",
+      "date": "2025-12-09",
+      "adjustment": "Increase base health from 275 to 300. Adjust Adjudication max falloff at 40m from 70% to 85%. Increase pellets per Deliverance round from 14 to 16."
     },
     {
       "patch": "Marvel Rivals Version 20260116",
@@ -771,14 +771,14 @@
       "adjustment": "Add Battle Blitz ability: leap toward enemies, gain 25% Damage Reduction. Leap targeting distance 20m. Stone Haymaker new effect: knock down hit flying enemies."
     },
     {
-      "patch": "Marvel Rivals Version 20251212",
-      "date": "2025-12-09",
-      "adjustment": "Increase Stone Haymaker Bonus Damage from 8% to 10% of enemies' max Health. Increase lingering anti-mobility field duration after Yancy Street Charge from 3s to 5s."
-    },
-    {
       "patch": "Marvel Rivals Version 20251114",
       "date": "2025-11-12",
       "adjustment": "Embattled Leap: Remove Damage Reduction from single target. Grant 20% to all allies within 5m. Reduce self Damage Reduction from 25% to 20%. Battle Blitz: Remove self Damage Reduction. Apply 20% Vulnerability to enemies within 5m. Reduce Stone Haymaker base Damage from 90 to 55. New effect: Bonus Damage 8% of enemy max Health. Gain Bonus Health equal to damage (up to 100)."
+    },
+    {
+      "patch": "Marvel Rivals Version 20251212",
+      "date": "2025-12-09",
+      "adjustment": "Increase Stone Haymaker Bonus Damage from 8% to 10% of enemies' max Health. Increase lingering anti-mobility field duration after Yancy Street Charge from 3s to 5s."
     }
   ],
   "Thor": [
@@ -793,14 +793,14 @@
       "adjustment": "Increase Ultimate Ability Movement Speed from 600 to 700. After Ultimate lands, Stun surrounding enemies for 1s."
     },
     {
-      "patch": "Marvel Rivals Version 20260213",
-      "date": "2026-02-09",
-      "adjustment": "Hammer Throw new effect: hits grant 50 Bonus Health (only once per throw). Reduce Bonus Health from Storm Surge from 75 to 50."
-    },
-    {
       "patch": "Marvel Rivals Version 20260116",
       "date": "2026-01-16",
       "adjustment": "During Storm Surge, freely adjust movement direction while dashing. Move in any direction."
+    },
+    {
+      "patch": "Marvel Rivals Version 20260213",
+      "date": "2026-02-09",
+      "adjustment": "Hammer Throw new effect: hits grant 50 Bonus Health (only once per throw). Reduce Bonus Health from Storm Surge from 75 to 50."
     }
   ],
   "Ultron": [
@@ -808,6 +808,11 @@
       "patch": "Marvel Rivals Version 20250808",
       "date": "2025-07-31",
       "adjustment": "Reduce Dynamic Flight acceleration effect time from 8s to 6s. Reduce Imperative: Firewall Bonus Health to self from 75 to 65, to allies from 55 to 50."
+    },
+    {
+      "patch": "Marvel Rivals Version 20250912",
+      "date": "2025-09-04",
+      "adjustment": "Rage of Ultron Ultimate now deals 125% damage to Bonus Health."
     },
     {
       "patch": "Marvel Rivals Version 20251010",
@@ -818,14 +823,14 @@
       "patch": "Marvel Rivals Version 20251212",
       "date": "2025-12-09",
       "adjustment": "Imperative: Patch can deploy up to 2 drones. Imperative: Firewall requires target with Imperative: Patch. After use, gain 65 Bonus Health. Target and allies get 50 Bonus Health, selected ally gets 20% Movement Speed and 10% Damage boost. Increase Rage of Ultron energy cost from 3700 to 4000."
-    },
-    {
-      "patch": "Marvel Rivals Version 20250912",
-      "date": "2025-09-04",
-      "adjustment": "Rage of Ultron Ultimate now deals 125% damage to Bonus Health."
     }
   ],
   "Venom": [
+    {
+      "patch": "Marvel Rivals Version 20250711",
+      "date": "2025-07-02",
+      "adjustment": "Increase Cellular Corrosion enemy slow effect from 15% to 25%."
+    },
     {
       "patch": "Marvel Rivals Version 20251010",
       "date": "2025-10-02",
@@ -835,11 +840,6 @@
       "patch": "Marvel Rivals Version 20260213",
       "date": "2026-02-09",
       "adjustment": "Increase base health from 650 to 675. Increase Feast of the Abyss Damage-to-Bonus-Health conversion from 1 to 1.3."
-    },
-    {
-      "patch": "Marvel Rivals Version 20250711",
-      "date": "2025-07-02",
-      "adjustment": "Increase Cellular Corrosion enemy slow effect from 15% to 25%."
     }
   ],
   "White Fox": [
@@ -868,14 +868,14 @@
   ],
   "Wolverine": [
     {
-      "patch": "Marvel Rivals Version 20250808",
-      "date": "2025-07-31",
-      "adjustment": "Increase Last Stand Ultimate energy cost from 2800 to 3400. Lifesteal from Primal Flame no longer contributes to Ultimate energy."
-    },
-    {
       "patch": "Marvel Rivals Version 20250717",
       "date": "2025-07-15",
       "adjustment": "Increase Berserk Claw Strike Base Damage from 6 to 8. Reduce Percentage Damage per attack at max Rage from 4.5% to 3.5%. Increase Regenerative Healing Factor cooldown from 90s to 105s. Increase cooldown reduction from 10s to 12s when participating in KOs. Reduce Lifesteal from Phoenix Warrior Team-Up from 33% to 25%."
+    },
+    {
+      "patch": "Marvel Rivals Version 20250808",
+      "date": "2025-07-31",
+      "adjustment": "Increase Last Stand Ultimate energy cost from 2800 to 3400. Lifesteal from Primal Flame no longer contributes to Ultimate energy."
     },
     {
       "patch": "Marvel Rivals Version 20251114",
